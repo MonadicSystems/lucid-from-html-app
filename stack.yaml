@@ -42,8 +42,9 @@ packages:
 #
 extra-deps:
   - git: https://github.com/MonadicSystems/lucid-from-html
-    commit: 213867f10394b8b40296e96e4fa9fb3e548d51f0
+    commit: b2af3aa95ffbc9e2f24e5a2fe68918d7bd899dfc 
   - lucid-htmx-0.1.0.4@sha256:2c9b0f461bace35b041abda18fa02090480fedf07d66018a5af624516292af10,1521
+  - lucid-alpine-0.1.0.5@sha256:5700d1ad876321ff2686c9ed2936c16d2252453515fdcace67f1202845dace3f,1763
   - lucid-2.11.0@sha256:1835166fe73a505a6b761fdf1d9aebaf62dce706a5c7d1d4ef2c45eb63cf202a,3212
   - servant-lucid-0.9.0.4@sha256:698db96903a145fdef40cc897f8790728642af917c37b941a98b2da872b65f08,1787
 # Override default flag values for local packages and extra-deps

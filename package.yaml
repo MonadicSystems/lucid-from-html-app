@@ -24,11 +24,14 @@ dependencies:
 - aeson
 - servant
 - lucid
+- lucid-htmx
+- lucid-alpine
 - servant-server
 - lucid-from-html
 - text
 - servant-lucid
 - warp
+- warp-tls
 
 library:
   source-dirs: src
